@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import ChekoutPage from './Component/Checkoutpage.jsx'
+import ChekoutPage from './Component/Checkoutpage'
 
 function App() {
   const [count, setCount] = useState(0)
